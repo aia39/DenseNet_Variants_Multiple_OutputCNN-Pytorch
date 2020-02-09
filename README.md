@@ -4,11 +4,11 @@ It is training and testing repo for multiple output CNN.Here DenseNet of multipl
 Competition link : https://www.kaggle.com/c/bengaliai-cv19/overview
 
 ## Validation score
-*DenseNet169 - Validation score:98.349 ,LB:Timeout error
+*DenseNet169 - Validation score:98.349 ,LB score :Timeout error
 
-*Se-ResNext50 - Validation score:99.482 ,LB:92.64 
+*Se-ResNext50 - Validation score:99.482 ,LB score :92.64 
 
-*Wide_ResNet50 - Validation score:99.428 ,LB:93.16  (To download weight file :https://www.kaggle.com/abraristiak39/wideres50 )
+*Wide_ResNet50 - Validation score:99.428 ,LB score :93.16  (To download weight file :https://www.kaggle.com/abraristiak39/wideres50 )
 
 All are for grayscale image size of 64*64.These baseline models seem to be overfitting.After selecting best baseline model there is more things to increase performance. 
 
