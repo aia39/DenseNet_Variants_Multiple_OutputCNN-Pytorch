@@ -14,6 +14,6 @@ All are for grayscale image size of 64*64.These baseline models seem to be overf
 
 
 
-##Acknowledgement :
+## Acknowledgement :
 Starting code was forked from notebook of :[Hanjoon Choe] https://www.kaggle.com/hanjoonchoe/grapheme-resnet-18-naive-learning-3
 
